@@ -1,0 +1,28 @@
+
+.footer__column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer__column-heading {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.footer__column-links {
+  margin:0;
+  padding-top: 20 px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__column-link {
+  margin:0;
+  color: white;
+  text-decoration: none;
+  opacity: 0.5;
+  transition: opacity 1s linear 2s;
+}
