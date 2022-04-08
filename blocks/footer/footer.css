@@ -5,11 +5,6 @@
   display: flex;
 }
 
-.logo_place_footer {
-  width: 183px;
-  height: 35px;
-}
-
 .footer__author {
   font-size: 18px;
   line-height: 25px;
