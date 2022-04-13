@@ -4,15 +4,3 @@
   color: white;
   display: flex;
 }
-
-.footer__author {
-  font-size: 18px;
-  line-height: 25px;
-  font-weight: normal;
-  margin: 18px 0;
-}
-
-.footer__social-icon {
-  padding-right: 10px;
-  margin: 0;
-}
